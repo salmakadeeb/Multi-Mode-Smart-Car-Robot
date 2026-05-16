@@ -19,7 +19,7 @@ A multi-functional smart car controlled by an **ATmega32 microcontroller**, capa
 
 ## 🎥 Demo
 
-> *(Add a GIF or YouTube link here showing all 3 modes in action)*
+> *https://drive.google.com/file/d/1X1AorKFm0i8koqwy37JxtdiP5p9g1fJz/view?usp=drive_link*
 
 ---
 
