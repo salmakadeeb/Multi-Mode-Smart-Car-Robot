@@ -1,27 +1,3 @@
-# Multi-Mode Smart Car Robot
-> Autonomous robot built on ATmega32 with 3 operating modes: Bluetooth control, obstacle avoidance, and line following.
-
----
-
-## 📌 Project Overview
-
-A multi-functional smart car controlled by an **ATmega32 microcontroller**, capable of switching between three fully integrated operating modes:
-
-| Mode | Type | Key Hardware |
-|------|------|-------------|
-| 🔵 Mode 1 | Bluetooth Control (manual) | HC-05, L298N, Android App |
-| 🟡 Mode 2 | Obstacle Avoidance (autonomous) | HC-SR04, LCD, Buzzer |
-| 🟢 Mode 3 | Line Following (autonomous) | IR Sensors (x2) |
-
----
-
-## 🎥 Demo
-
-> *(Add a GIF or YouTube link here showing all 3 modes in action)*
-
----
-
-## ⚙️ System Architecture
 
 ```
 [Phone App]
