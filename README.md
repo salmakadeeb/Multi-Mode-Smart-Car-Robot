@@ -3,7 +3,6 @@
 
 
 ---
-<img width="1033" height="559" alt="image" src="https://github.com/user-attachments/assets/a70cdd7e-5246-4545-8d3b-56affa03756e" />
 
 ## 📌 Project Overview
 
@@ -168,6 +167,7 @@ The full circuit was simulated in **Proteus 8** before hardware implementation:
 - Mode 2: HC-SR04 + LCD (LM016L) + Buzzer (BC547 transistor driver)
 - Mode 3: Dual IR sensor inputs
 - Full ATmega32 pin mapping validated in simulation
+<img width="1030" height="554" alt="image" src="https://github.com/user-attachments/assets/2b53fbde-9450-4016-8b9f-c42966dc8252" />
 
 ---
 
