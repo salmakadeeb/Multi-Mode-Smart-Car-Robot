@@ -257,4 +257,4 @@ Feel free to use, modify, and build on it with attribution.
 
 ---
 
-> Built as a final embedded systems project — Higher Institute of Engineering and Technology, Beheira · 2024
+> Built as a final embedded systems project — Higher Institute of Engineering and Technology, Beheira · 2026
