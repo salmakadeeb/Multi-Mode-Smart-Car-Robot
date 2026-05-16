@@ -181,7 +181,7 @@ smart-car-robot/
 │   ├── ultrasonic.c / .h    # HC-SR04 distance measurement
 │   ├── ir_sensor.c / .h     # IR sensor reading (PC2, PC3)
 │   ├── lcd.c / lcd.h        # LCD 8-bit driver
-│   └── buzzer.c / buzzer.h  # Buzzer control
+│   
 │
 ├── proteus/
 │   └── smart_car.pdsprj     # Proteus simulation file
